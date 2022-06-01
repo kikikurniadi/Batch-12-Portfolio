@@ -1,6 +1,6 @@
 # Batch-12-Portfolio
 
-Gain & visualize 4 insights from Ames housing dataset (Data Terlampir Dalam Drive)
+Gain & visualize 4 insights from Ames housing dataset
 
 1. Count of one categorical feature
 2. Distribution of one continuous feature
